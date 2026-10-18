@@ -1,6 +1,6 @@
 ---
 name: migrate-to-uv
-description: A brief description of what this skill does
+description: Migrates a Python package project structure to use uv, ruff and prek
 ---
 
 # migrate-to-uv
